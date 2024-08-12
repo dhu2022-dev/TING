@@ -1,0 +1,400 @@
+{
+    "name": "Adele in Munich",
+    "type": "event",
+    "id": "Z698xZC2Z17fg7t",
+    "test": false,
+    "url": "https://www.ticketmaster.de/event/adele-in-munich-tickets/535129",
+    "locale": "en-us",
+    "images": [
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+        },
+        {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+        },
+        {
+            "ratio": "1_1",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_SOURCE",
+            "width": 2400,
+            "height": 2400,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+        }
+    ],
+    "sales": {
+        "public": {
+            "startDateTime": "2024-02-09T09:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-08-14T19:00:00Z"
+        }
+    },
+    "dates": {
+        "start": {
+            "localDate": "2024-08-14",
+            "localTime": "19:30:00",
+            "dateTime": "2024-08-14T17:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+        },
+        "timezone": "Europe/Berlin",
+        "status": {
+            "code": "onsale"
+        },
+        "spanMultipleDays": false
+    },
+    "classifications": [
+        {
+            "primary": true,
+            "segment": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "name": "Music"
+            },
+            "genre": {
+                "id": "KnvZfZ7vAeA",
+                "name": "Rock"
+            },
+            "subGenre": {
+                "id": "KZazBEonSMnZfZ7v6F1",
+                "name": "Pop"
+            },
+            "family": false
+        }
+    ],
+    "promoter": {
+        "id": "14437",
+        "name": "Live Nation GmbH"
+    },
+    "promoters": [
+        {
+            "id": "14437",
+            "name": "Live Nation GmbH"
+        }
+    ],
+    "priceRanges": [
+        {
+            "type": "standard including fees",
+            "currency": "EUR",
+            "min": 17.0,
+            "max": 539.0
+        },
+        {
+            "type": "standard",
+            "currency": "EUR",
+            "min": 115.0,
+            "max": 539.0
+        }
+    ],
+    "seatmap": {
+        "staticUrl": "https://media.ticketmaster.eu/germany/d2cb61aba9efc1747fd72ddb44c165d1.jpg",
+        "id": "seatmap"
+    },
+    "_links": {
+        "self": {
+            "href": "/discovery/v2/events/Z698xZC2Z17fg7t?locale=en-us"
+        },
+        "attractions": [
+            {
+                "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+            }
+        ],
+        "venues": [
+            {
+                "href": "/discovery/v2/venues/Z698xZC2ZaFrA?locale=en-us"
+            }
+        ]
+    },
+    "_embedded": {
+        "venues": [
+            {
+                "name": "Open Air Arena - Messe M\u00fcnchen",
+                "type": "venue",
+                "id": "Z698xZC2ZaFrA",
+                "test": false,
+                "url": "https://www.ticketmaster.de/venue/open-air-arena-messe-munchen-munchen-tickets/muemesse/753",
+                "locale": "en-us",
+                "postalCode": "81829",
+                "timezone": "Europe/Berlin",
+                "city": {
+                    "name": "Munich"
+                },
+                "country": {
+                    "name": "Germany",
+                    "countryCode": "DE"
+                },
+                "address": {
+                    "line1": "Paul-Henri-Spaak-Stra\u00dfe"
+                },
+                "location": {
+                    "longitude": "11.70659",
+                    "latitude": "48.13582"
+                },
+                "upcomingEvents": {
+                    "mfx-de": 12,
+                    "_total": 12,
+                    "_filtered": 0
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/venues/Z698xZC2ZaFrA?locale=en-us"
+                    }
+                }
+            }
+        ],
+        "attractions": [
+            {
+                "name": "Adele",
+                "type": "attraction",
+                "id": "K8vZ917Gku7",
+                "test": false,
+                "url": "https://www.ticketmaster.com/adele-tickets/artist/1159272",
+                "locale": "en-us",
+                "externalLinks": {
+                    "youtube": [
+                        {
+                            "url": "https://www.youtube.com/user/AdeleVEVO"
+                        },
+                        {
+                            "url": "https://www.youtube.com/user/adelelondon"
+                        }
+                    ],
+                    "twitter": [
+                        {
+                            "url": "https://twitter.com/Adele"
+                        }
+                    ],
+                    "itunes": [
+                        {
+                            "url": "https://itunes.apple.com/artist/id262836961"
+                        }
+                    ],
+                    "lastfm": [
+                        {
+                            "url": "http://www.last.fm/music/Adele"
+                        }
+                    ],
+                    "wiki": [
+                        {
+                            "url": "https://en.wikipedia.org/wiki/Adele"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                            "url": "https://www.facebook.com/adele"
+                        }
+                    ],
+                    "instagram": [
+                        {
+                            "url": "https://www.instagram.com/adele"
+                        }
+                    ],
+                    "musicbrainz": [
+                        {
+                            "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493"
+                        }
+                    ],
+                    "homepage": [
+                        {
+                            "url": "http://adele.com/"
+                        }
+                    ]
+                },
+                "images": [
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RETINA_PORTRAIT_3_2.jpg",
+                        "width": 640,
+                        "height": 427,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                        "width": 2426,
+                        "height": 1365,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_ARTIST_PAGE_3_2.jpg",
+                        "width": 305,
+                        "height": 203,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_EVENT_DETAIL_PAGE_16_9.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "4_3",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_CUSTOM.jpg",
+                        "width": 305,
+                        "height": 225,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                        "width": 2048,
+                        "height": 1152,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_TABLET_LANDSCAPE_3_2.jpg",
+                        "width": 1024,
+                        "height": 683,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "1_1",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_SOURCE",
+                        "width": 2400,
+                        "height": 2400,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RECOMENDATION_16_9.jpg",
+                        "width": 100,
+                        "height": 56,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RETINA_PORTRAIT_16_9.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_TABLET_LANDSCAPE_16_9.jpg",
+                        "width": 1024,
+                        "height": 576,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/124/84297af8-dd6a-43a0-ab67-a8dd80f41124_RETINA_LANDSCAPE_16_9.jpg",
+                        "width": 1136,
+                        "height": 639,
+                        "fallback": false
+                    }
+                ],
+                "classifications": [
+                    {
+                        "primary": true,
+                        "segment": {
+                            "id": "KZFzniwnSyZfZ7v7nJ",
+                            "name": "Music"
+                        },
+                        "genre": {
+                            "id": "KnvZfZ7vAeA",
+                            "name": "Rock"
+                        },
+                        "subGenre": {
+                            "id": "KZazBEonSMnZfZ7v6F1",
+                            "name": "Pop"
+                        },
+                        "type": {
+                            "id": "KZAyXgnZfZ7v7la",
+                            "name": "Individual"
+                        },
+                        "subType": {
+                            "id": "KZFzBErXgnZfZ7vAd7",
+                            "name": "Musician"
+                        },
+                        "family": false
+                    }
+                ],
+                "upcomingEvents": {
+                    "ticketmaster": 16,
+                    "mfx-de": 12,
+                    "_total": 28,
+                    "_filtered": 0
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                    }
+                }
+            }
+        ]
+    }
+}

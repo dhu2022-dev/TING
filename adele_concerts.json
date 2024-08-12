@@ -1,0 +1,1886 @@
+[
+    {
+        "name": "Weekends with Adele",
+        "type": "event",
+        "id": "G5d0Z9gejBYsD",
+        "test": false,
+        "url": "https://www.ticketmaster.com/weekends-with-adele-las-vegas-nevada-11-23-2024/event/39005F509CEB0C7B",
+        "locale": "en-us",
+        "images": [
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                "width": 2426,
+                "height": 1365,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_16_9.jpg",
+                "width": 1024,
+                "height": 576,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_LANDSCAPE_16_9.jpg",
+                "width": 1136,
+                "height": 639,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_3_2.jpg",
+                "width": 1024,
+                "height": 683,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RECOMENDATION_16_9.jpg",
+                "width": 100,
+                "height": 56,
+                "fallback": false
+            },
+            {
+                "ratio": "4_3",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_CUSTOM.jpg",
+                "width": 305,
+                "height": 225,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_ARTIST_PAGE_3_2.jpg",
+                "width": 305,
+                "height": 203,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_16_9.jpg",
+                "width": 640,
+                "height": 360,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_3_2.jpg",
+                "width": 640,
+                "height": 427,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                "width": 2048,
+                "height": 1152,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_EVENT_DETAIL_PAGE_16_9.jpg",
+                "width": 205,
+                "height": 115,
+                "fallback": false
+            }
+        ],
+        "sales": {
+            "public": {
+                "startTBD": false,
+                "startTBA": false
+            }
+        },
+        "dates": {
+            "start": {
+                "localDate": "2024-11-23",
+                "localTime": "20:00:00",
+                "dateTime": "2024-11-24T04:00:00Z",
+                "dateTBD": false,
+                "dateTBA": false,
+                "timeTBA": false,
+                "noSpecificTime": false
+            },
+            "initialStartDate": {
+                "localDate": "2024-03-30",
+                "localTime": "20:00:00",
+                "dateTime": "2024-03-31T03:00:00Z"
+            },
+            "timezone": "America/Los_Angeles",
+            "status": {
+                "code": "rescheduled"
+            },
+            "spanMultipleDays": false
+        },
+        "classifications": [
+            {
+                "primary": true,
+                "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                },
+                "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                },
+                "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6F1",
+                    "name": "Pop"
+                },
+                "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                },
+                "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                },
+                "family": false
+            }
+        ],
+        "promoter": {
+            "id": "494",
+            "name": "PROMOTED BY VENUE",
+            "description": "PROMOTED BY VENUE / NTL / USA"
+        },
+        "promoters": [
+            {
+                "id": "494",
+                "name": "PROMOTED BY VENUE",
+                "description": "PROMOTED BY VENUE / NTL / USA"
+            }
+        ],
+        "pleaseNote": "Entry requirements and venue protocols are subject to change. Patrons are permitted to stand during performance. Recommended ages 6+. All patrons require a ticket regardless of age. The venue reserves the right to implement security procedures designed to protect the experience for all of our customers.",
+        "priceRanges": [
+            {
+                "type": "standard",
+                "currency": "USD",
+                "min": 90.83,
+                "max": 779.82
+            }
+        ],
+        "seatmap": {
+            "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/39005F509CEB0C7B/staticImage?type=png&systemId=HOST",
+            "id": "seatmap"
+        },
+        "accessibility": {
+            "ticketLimit": 4,
+            "id": "accessibility"
+        },
+        "ticketLimit": {
+            "info": "There is an overall 4 ticket limit for this event.",
+            "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+            "legalAgeEnforced": false,
+            "id": "ageRestrictions"
+        },
+        "ticketing": {
+            "safeTix": {
+                "enabled": true,
+                "inAppOnlyEnabled": false
+            },
+            "allInclusivePricing": {
+                "enabled": false
+            },
+            "id": "ticketing"
+        },
+        "_links": {
+            "self": {
+                "href": "/discovery/v2/events/G5d0Z9gejBYsD?locale=en-us"
+            },
+            "attractions": [
+                {
+                    "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                }
+            ],
+            "venues": [
+                {
+                    "href": "/discovery/v2/venues/KovZ917A2m7?locale=en-us"
+                }
+            ]
+        },
+        "_embedded": {
+            "venues": [
+                {
+                    "name": "The Colosseum at Caesars Palace",
+                    "type": "venue",
+                    "id": "KovZ917A2m7",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com/the-colosseum-at-caesars-palace-tickets-las-vegas/venue/467930",
+                    "locale": "en-us",
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dbimages/20364v.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": false
+                        }
+                    ],
+                    "postalCode": "89109",
+                    "timezone": "America/Los_Angeles",
+                    "city": {
+                        "name": "Las Vegas"
+                    },
+                    "state": {
+                        "name": "Nevada",
+                        "stateCode": "NV"
+                    },
+                    "country": {
+                        "name": "United States Of America",
+                        "countryCode": "US"
+                    },
+                    "address": {
+                        "line1": "3570 S Las Vegas Blvd"
+                    },
+                    "location": {
+                        "longitude": "-115.175058",
+                        "latitude": "36.116156"
+                    },
+                    "markets": [
+                        {
+                            "name": "Las Vegas",
+                            "id": "14"
+                        }
+                    ],
+                    "dmas": [
+                        {
+                            "id": 319
+                        }
+                    ],
+                    "boxOfficeInfo": {
+                        "phoneNumberDetail": "1-702-777-2782 or toll free at 1-855-234-7469",
+                        "acceptedPaymentDetail": "Cash and All Major Credit Cards",
+                        "willCallDetail": "MUST HAVE PHOTO I.D. & CREDIT CARD USED TO PURCHASE TICKETS WHEN PICKING UP WILL CALL TICKETS"
+                    },
+                    "parkingDetail": "Valet and Self parking are available; fees may apply.",
+                    "accessibleSeatingDetail": "Elevators are available for access to Rear Orchestra and First and Second Mezzanine sections.",
+                    "generalInfo": {
+                        "generalRule": "This is a Non-Smoking Venue.",
+                        "childRule": "Recommended for ages 6+ (unless otherwise noted), but all patrons require a ticket regardless of age. Children under 18 must be accompanied by an adult."
+                    },
+                    "upcomingEvents": {
+                        "ticketmaster": 62,
+                        "_total": 62,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/venues/KovZ917A2m7?locale=en-us"
+                        }
+                    }
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Adele",
+                    "type": "attraction",
+                    "id": "K8vZ917Gku7",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com.au/adele-tickets/artist/1159272",
+                    "locale": "en-us",
+                    "externalLinks": {
+                        "youtube": [
+                            {
+                                "url": "https://www.youtube.com/user/AdeleVEVO"
+                            },
+                            {
+                                "url": "https://www.youtube.com/user/adelelondon"
+                            }
+                        ],
+                        "twitter": [
+                            {
+                                "url": "https://twitter.com/Adele"
+                            }
+                        ],
+                        "itunes": [
+                            {
+                                "url": "https://itunes.apple.com/artist/id262836961"
+                            }
+                        ],
+                        "lastfm": [
+                            {
+                                "url": "http://www.last.fm/music/Adele"
+                            }
+                        ],
+                        "wiki": [
+                            {
+                                "url": "https://en.wikipedia.org/wiki/Adele"
+                            }
+                        ],
+                        "facebook": [
+                            {
+                                "url": "https://www.facebook.com/adele"
+                            }
+                        ],
+                        "instagram": [
+                            {
+                                "url": "https://www.instagram.com/adele"
+                            }
+                        ],
+                        "musicbrainz": [
+                            {
+                                "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493"
+                            }
+                        ],
+                        "homepage": [
+                            {
+                                "url": "http://adele.com/"
+                            }
+                        ]
+                    },
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                            "width": 2426,
+                            "height": 1365,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_16_9.jpg",
+                            "width": 1024,
+                            "height": 576,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_LANDSCAPE_16_9.jpg",
+                            "width": 1136,
+                            "height": 639,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_3_2.jpg",
+                            "width": 1024,
+                            "height": 683,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RECOMENDATION_16_9.jpg",
+                            "width": 100,
+                            "height": 56,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "4_3",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_CUSTOM.jpg",
+                            "width": 305,
+                            "height": 225,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_ARTIST_PAGE_3_2.jpg",
+                            "width": 305,
+                            "height": 203,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_16_9.jpg",
+                            "width": 640,
+                            "height": 360,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_3_2.jpg",
+                            "width": 640,
+                            "height": 427,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                            "width": 2048,
+                            "height": 1152,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_EVENT_DETAIL_PAGE_16_9.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": false
+                        }
+                    ],
+                    "classifications": [
+                        {
+                            "primary": true,
+                            "segment": {
+                                "id": "KZFzniwnSyZfZ7v7nJ",
+                                "name": "Music"
+                            },
+                            "genre": {
+                                "id": "KnvZfZ7vAeA",
+                                "name": "Rock"
+                            },
+                            "subGenre": {
+                                "id": "KZazBEonSMnZfZ7v6F1",
+                                "name": "Pop"
+                            },
+                            "type": {
+                                "id": "KZAyXgnZfZ7v7la",
+                                "name": "Individual"
+                            },
+                            "subType": {
+                                "id": "KZFzBErXgnZfZ7vAd7",
+                                "name": "Musician"
+                            },
+                            "family": false
+                        }
+                    ],
+                    "upcomingEvents": {
+                        "ticketmaster": 16,
+                        "mfx-de": 12,
+                        "_total": 28,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "name": "Weekends with Adele",
+        "type": "event",
+        "id": "G5d0Z9gejBZsz",
+        "test": false,
+        "url": "https://www.ticketmaster.com/weekends-with-adele-las-vegas-nevada-11-22-2024/event/39005F509CE80C78",
+        "locale": "en-us",
+        "images": [
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                "width": 2426,
+                "height": 1365,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_16_9.jpg",
+                "width": 1024,
+                "height": 576,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_LANDSCAPE_16_9.jpg",
+                "width": 1136,
+                "height": 639,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_3_2.jpg",
+                "width": 1024,
+                "height": 683,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RECOMENDATION_16_9.jpg",
+                "width": 100,
+                "height": 56,
+                "fallback": false
+            },
+            {
+                "ratio": "4_3",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_CUSTOM.jpg",
+                "width": 305,
+                "height": 225,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_ARTIST_PAGE_3_2.jpg",
+                "width": 305,
+                "height": 203,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_16_9.jpg",
+                "width": 640,
+                "height": 360,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_3_2.jpg",
+                "width": 640,
+                "height": 427,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                "width": 2048,
+                "height": 1152,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_EVENT_DETAIL_PAGE_16_9.jpg",
+                "width": 205,
+                "height": 115,
+                "fallback": false
+            }
+        ],
+        "sales": {
+            "public": {
+                "startTBD": false,
+                "startTBA": false
+            }
+        },
+        "dates": {
+            "start": {
+                "localDate": "2024-11-22",
+                "localTime": "20:00:00",
+                "dateTime": "2024-11-23T04:00:00Z",
+                "dateTBD": false,
+                "dateTBA": false,
+                "timeTBA": false,
+                "noSpecificTime": false
+            },
+            "initialStartDate": {
+                "localDate": "2024-03-29",
+                "localTime": "20:00:00",
+                "dateTime": "2024-03-30T03:00:00Z"
+            },
+            "timezone": "America/Los_Angeles",
+            "status": {
+                "code": "rescheduled"
+            },
+            "spanMultipleDays": false
+        },
+        "classifications": [
+            {
+                "primary": true,
+                "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                },
+                "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                },
+                "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6F1",
+                    "name": "Pop"
+                },
+                "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                },
+                "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                },
+                "family": false
+            }
+        ],
+        "promoter": {
+            "id": "494",
+            "name": "PROMOTED BY VENUE",
+            "description": "PROMOTED BY VENUE / NTL / USA"
+        },
+        "promoters": [
+            {
+                "id": "494",
+                "name": "PROMOTED BY VENUE",
+                "description": "PROMOTED BY VENUE / NTL / USA"
+            }
+        ],
+        "pleaseNote": "Entry requirements and venue protocols are subject to change. Patrons are permitted to stand during performance. Recommended ages 6+. All patrons require a ticket regardless of age. The venue reserves the right to implement security procedures designed to protect the experience for all of our customers.",
+        "priceRanges": [
+            {
+                "type": "standard",
+                "currency": "USD",
+                "min": 90.83,
+                "max": 779.82
+            }
+        ],
+        "seatmap": {
+            "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/39005F509CE80C78/staticImage?type=png&systemId=HOST",
+            "id": "seatmap"
+        },
+        "accessibility": {
+            "ticketLimit": 4,
+            "id": "accessibility"
+        },
+        "ticketLimit": {
+            "info": "There is an overall 4 ticket limit for this event.",
+            "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+            "legalAgeEnforced": false,
+            "id": "ageRestrictions"
+        },
+        "ticketing": {
+            "safeTix": {
+                "enabled": true,
+                "inAppOnlyEnabled": false
+            },
+            "allInclusivePricing": {
+                "enabled": false
+            },
+            "id": "ticketing"
+        },
+        "_links": {
+            "self": {
+                "href": "/discovery/v2/events/G5d0Z9gejBZsz?locale=en-us"
+            },
+            "attractions": [
+                {
+                    "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                }
+            ],
+            "venues": [
+                {
+                    "href": "/discovery/v2/venues/KovZ917A2m7?locale=en-us"
+                }
+            ]
+        },
+        "_embedded": {
+            "venues": [
+                {
+                    "name": "The Colosseum at Caesars Palace",
+                    "type": "venue",
+                    "id": "KovZ917A2m7",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com/the-colosseum-at-caesars-palace-tickets-las-vegas/venue/467930",
+                    "locale": "en-us",
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dbimages/20364v.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": false
+                        }
+                    ],
+                    "postalCode": "89109",
+                    "timezone": "America/Los_Angeles",
+                    "city": {
+                        "name": "Las Vegas"
+                    },
+                    "state": {
+                        "name": "Nevada",
+                        "stateCode": "NV"
+                    },
+                    "country": {
+                        "name": "United States Of America",
+                        "countryCode": "US"
+                    },
+                    "address": {
+                        "line1": "3570 S Las Vegas Blvd"
+                    },
+                    "location": {
+                        "longitude": "-115.175058",
+                        "latitude": "36.116156"
+                    },
+                    "markets": [
+                        {
+                            "name": "Las Vegas",
+                            "id": "14"
+                        }
+                    ],
+                    "dmas": [
+                        {
+                            "id": 319
+                        }
+                    ],
+                    "boxOfficeInfo": {
+                        "phoneNumberDetail": "1-702-777-2782 or toll free at 1-855-234-7469",
+                        "acceptedPaymentDetail": "Cash and All Major Credit Cards",
+                        "willCallDetail": "MUST HAVE PHOTO I.D. & CREDIT CARD USED TO PURCHASE TICKETS WHEN PICKING UP WILL CALL TICKETS"
+                    },
+                    "parkingDetail": "Valet and Self parking are available; fees may apply.",
+                    "accessibleSeatingDetail": "Elevators are available for access to Rear Orchestra and First and Second Mezzanine sections.",
+                    "generalInfo": {
+                        "generalRule": "This is a Non-Smoking Venue.",
+                        "childRule": "Recommended for ages 6+ (unless otherwise noted), but all patrons require a ticket regardless of age. Children under 18 must be accompanied by an adult."
+                    },
+                    "upcomingEvents": {
+                        "ticketmaster": 62,
+                        "_total": 62,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/venues/KovZ917A2m7?locale=en-us"
+                        }
+                    }
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Adele",
+                    "type": "attraction",
+                    "id": "K8vZ917Gku7",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com.au/adele-tickets/artist/1159272",
+                    "locale": "en-us",
+                    "externalLinks": {
+                        "youtube": [
+                            {
+                                "url": "https://www.youtube.com/user/AdeleVEVO"
+                            },
+                            {
+                                "url": "https://www.youtube.com/user/adelelondon"
+                            }
+                        ],
+                        "twitter": [
+                            {
+                                "url": "https://twitter.com/Adele"
+                            }
+                        ],
+                        "itunes": [
+                            {
+                                "url": "https://itunes.apple.com/artist/id262836961"
+                            }
+                        ],
+                        "lastfm": [
+                            {
+                                "url": "http://www.last.fm/music/Adele"
+                            }
+                        ],
+                        "wiki": [
+                            {
+                                "url": "https://en.wikipedia.org/wiki/Adele"
+                            }
+                        ],
+                        "facebook": [
+                            {
+                                "url": "https://www.facebook.com/adele"
+                            }
+                        ],
+                        "instagram": [
+                            {
+                                "url": "https://www.instagram.com/adele"
+                            }
+                        ],
+                        "musicbrainz": [
+                            {
+                                "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493"
+                            }
+                        ],
+                        "homepage": [
+                            {
+                                "url": "http://adele.com/"
+                            }
+                        ]
+                    },
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                            "width": 2426,
+                            "height": 1365,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_16_9.jpg",
+                            "width": 1024,
+                            "height": 576,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_LANDSCAPE_16_9.jpg",
+                            "width": 1136,
+                            "height": 639,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_3_2.jpg",
+                            "width": 1024,
+                            "height": 683,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RECOMENDATION_16_9.jpg",
+                            "width": 100,
+                            "height": 56,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "4_3",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_CUSTOM.jpg",
+                            "width": 305,
+                            "height": 225,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_ARTIST_PAGE_3_2.jpg",
+                            "width": 305,
+                            "height": 203,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_16_9.jpg",
+                            "width": 640,
+                            "height": 360,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_3_2.jpg",
+                            "width": 640,
+                            "height": 427,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                            "width": 2048,
+                            "height": 1152,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_EVENT_DETAIL_PAGE_16_9.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": false
+                        }
+                    ],
+                    "classifications": [
+                        {
+                            "primary": true,
+                            "segment": {
+                                "id": "KZFzniwnSyZfZ7v7nJ",
+                                "name": "Music"
+                            },
+                            "genre": {
+                                "id": "KnvZfZ7vAeA",
+                                "name": "Rock"
+                            },
+                            "subGenre": {
+                                "id": "KZazBEonSMnZfZ7v6F1",
+                                "name": "Pop"
+                            },
+                            "type": {
+                                "id": "KZAyXgnZfZ7v7la",
+                                "name": "Individual"
+                            },
+                            "subType": {
+                                "id": "KZFzBErXgnZfZ7vAd7",
+                                "name": "Musician"
+                            },
+                            "family": false
+                        }
+                    ],
+                    "upcomingEvents": {
+                        "ticketmaster": 16,
+                        "mfx-de": 12,
+                        "_total": 28,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "name": "Adele Givens",
+        "type": "event",
+        "id": "rZ7HnEZ1AKuOjf",
+        "test": false,
+        "url": "https://www.ticketweb.com/event/adele-givens-chicago-improv-tickets/13360714",
+        "locale": "en-us",
+        "images": [
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_LANDSCAPE_16_9.jpg",
+                "width": 1136,
+                "height": 639,
+                "fallback": true
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_ARTIST_PAGE_3_2.jpg",
+                "width": 305,
+                "height": 203,
+                "fallback": true
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_3_2.jpg",
+                "width": 1024,
+                "height": 683,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+                "width": 1024,
+                "height": 576,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                "width": 2048,
+                "height": 1152,
+                "fallback": true
+            },
+            {
+                "ratio": "4_3",
+                "url": "https://i.ticketweb.com/i/00/12/49/93/33_Edp.jpg?v=2",
+                "width": 570,
+                "height": 427,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_EVENT_DETAIL_PAGE_16_9.jpg",
+                "width": 205,
+                "height": 115,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
+                "width": 640,
+                "height": 360,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RECOMENDATION_16_9.jpg",
+                "width": 100,
+                "height": 56,
+                "fallback": true
+            },
+            {
+                "ratio": "4_3",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_CUSTOM.jpg",
+                "width": 305,
+                "height": 225,
+                "fallback": true
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_3_2.jpg",
+                "width": 640,
+                "height": 427,
+                "fallback": true
+            }
+        ],
+        "sales": {
+            "public": {
+                "startDateTime": "2024-03-22T18:45:00Z",
+                "startTBD": false,
+                "startTBA": false,
+                "endDateTime": "2024-11-18T02:00:00Z"
+            }
+        },
+        "dates": {
+            "access": {
+                "startDateTime": "2024-11-17T23:00:00Z",
+                "startApproximate": false,
+                "endApproximate": false
+            },
+            "start": {
+                "localDate": "2024-11-17",
+                "localTime": "19:00:00",
+                "dateTime": "2024-11-18T01:00:00Z",
+                "dateTBD": false,
+                "dateTBA": false,
+                "timeTBA": false,
+                "noSpecificTime": false
+            },
+            "end": {
+                "approximate": false,
+                "noSpecificTime": false
+            },
+            "timezone": "America/Chicago",
+            "status": {
+                "code": "onsale"
+            },
+            "spanMultipleDays": false
+        },
+        "classifications": [
+            {
+                "primary": true,
+                "segment": {
+                    "id": "KZFzniwnSyZfZ7v7na",
+                    "name": "Arts & Theatre"
+                },
+                "genre": {
+                    "id": "KnvZfZ7vAe1",
+                    "name": "Comedy"
+                },
+                "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vF17",
+                    "name": "Comedy"
+                },
+                "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                },
+                "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                },
+                "family": false
+            }
+        ],
+        "info": "We are back to full capacity and may be double seating, which means you may be sat with other guests. DO NOT PURCHASE TICKETS FROM ANYONE OR ANY OTHER SITE OTHER THAN IMPROV.COM TICKET RESALE IS STRICTLY PROHIBITED.TICKETS SUSPECTED OF BEING PURCHASED FOR THE SOLE PURPOSE OF RESELLING MAY BE CANCELLED AT THE DISCRETION OF CHICAGO IMPROV.EVENT INFO:There is a two-item minimum purchase requirement in the showroom for all guests. Seating is general admission, first-come, first-served, with the exception of groups and dinner reservations for early shows.No cell phone use, photography or video recording is permitted during performances.All sales are final.",
+        "pleaseNote": "This event is 18 and over. Any ticket holder unable to present valid identification indicating that they are at least 18 years of age will not be admitted to this event, and will not be eligible for a refund. This event is 18 and over. Any ticket holder unable to present valid identification indicating that they are at least 18 years of age will not be admitted to this event, and will not be eligible for a refund By purchasing tickets to this event, you are authorizing this charge and acknowledging our terms and conditions below. ALL SALES ARE FINAL, unless an event is cancelled by the artist or venue. There are no refunds, transfers or exchanges There is a two-item minimum purchase per person in the showroom. Any two-item combination of food or beverage satisfies the minimum. Unless otherwise stated, there are no food or beverages included with your ticket purchase. All events are 18 years of age or older, unless otherwise stated in the event description. You must have a valid state or government issued photo ID to show proof age. All seating is on a first come first serve basis. For best seating, arrive early. In order to be seated at least half of your party must be present. Under certain circumstances, we may not be able to seat your entire party together. Venue reserves the right to resell tickets of any person/party that has not been seated by scheduled show time. No refunds will be issued. Valid Photo ID and the Credit Card used for the Reservation must be presented to pick up Tickets. Tickets will only be released to the purchaser unless prior arrangements have been made. Venue is a non-smoking property. Vape pens are also prohibited. When determined by The Chicago Improv that the potential is high for inappropriate or illegal items to be brought into the building, a full inspection would consist of a series of checkpoints, including: - Visual inspection, followed by a hand search of coats and handbags - Use of metal detectors to search for items not permitted i.e. weapons, alcohol and projectiles. - If a guest does not wish to be inspected, he or she may be denied entry into the venue. Management reserves the right to deny and refuse entry or remove parties that may be deemed a distraction to other guests. This includes those that may appear intoxicated or not abiding by venue policies. Dress Code: Guests are asked to wear casual evening attire. Attire shall be deemed appropriate at the sole discretion of management. For security reasons, management reserves the right to search personal items and may request that personal belongings not be permitted into the venue. Photography, videography, filming or any recording during the show is strictly prohibited. By entering the venue, you acknowledge that the venue and its parent companies, affiliates or subsidiaries, are not responsible for any lost, stolen or damaged property. All events are 18 and up unless otherwise specified. There will be an 18% gratuity added to all checks.",
+        "priceRanges": [
+            {
+                "type": "standard",
+                "currency": "USD",
+                "min": 33.0,
+                "max": 33.0
+            }
+        ],
+        "_links": {
+            "self": {
+                "href": "/discovery/v2/events/rZ7HnEZ1AKuOjf?locale=en-us"
+            },
+            "attractions": [
+                {
+                    "href": "/discovery/v2/attractions/K8vZ9171K5V?locale=en-us"
+                }
+            ],
+            "venues": [
+                {
+                    "href": "/discovery/v2/venues/rZ7HnEZ178E0P?locale=en-us"
+                }
+            ]
+        },
+        "_embedded": {
+            "venues": [
+                {
+                    "name": "Chicago Improv",
+                    "type": "venue",
+                    "id": "rZ7HnEZ178E0P",
+                    "test": false,
+                    "url": "https://www.ticketweb.com/venue/chicago-improv-schaumburg-il/427925",
+                    "locale": "en-us",
+                    "postalCode": "60173",
+                    "timezone": "America/Chicago",
+                    "city": {
+                        "name": "Schaumburg"
+                    },
+                    "state": {
+                        "name": "Illinois",
+                        "stateCode": "IL"
+                    },
+                    "country": {
+                        "name": "United States Of America",
+                        "countryCode": "US"
+                    },
+                    "address": {
+                        "line1": "5 Woodfield Mall K120B"
+                    },
+                    "location": {
+                        "longitude": "-88.035151",
+                        "latitude": "42.045532"
+                    },
+                    "upcomingEvents": {
+                        "ticketweb": 79,
+                        "_total": 79,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/venues/rZ7HnEZ178E0P?locale=en-us"
+                        }
+                    }
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Adele Givens",
+                    "type": "attraction",
+                    "id": "K8vZ9171K5V",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com/adele-givens-tickets/artist/803411",
+                    "locale": "en-us",
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_LANDSCAPE_16_9.jpg",
+                            "width": 1136,
+                            "height": 639,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_ARTIST_PAGE_3_2.jpg",
+                            "width": 305,
+                            "height": 203,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_3_2.jpg",
+                            "width": 1024,
+                            "height": 683,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_16_9.jpg",
+                            "width": 1024,
+                            "height": 576,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                            "width": 2048,
+                            "height": 1152,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_EVENT_DETAIL_PAGE_16_9.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_16_9.jpg",
+                            "width": 640,
+                            "height": 360,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RETINA_PORTRAIT_3_2.jpg",
+                            "width": 640,
+                            "height": 427,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_RECOMENDATION_16_9.jpg",
+                            "width": 100,
+                            "height": 56,
+                            "fallback": true
+                        },
+                        {
+                            "ratio": "4_3",
+                            "url": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_CUSTOM.jpg",
+                            "width": 305,
+                            "height": 225,
+                            "fallback": true
+                        }
+                    ],
+                    "classifications": [
+                        {
+                            "primary": true,
+                            "segment": {
+                                "id": "KZFzniwnSyZfZ7v7na",
+                                "name": "Arts & Theatre"
+                            },
+                            "genre": {
+                                "id": "KnvZfZ7vAe1",
+                                "name": "Comedy"
+                            },
+                            "subGenre": {
+                                "id": "KZazBEonSMnZfZ7vF17",
+                                "name": "Comedy"
+                            },
+                            "type": {
+                                "id": "KZAyXgnZfZ7v7nI",
+                                "name": "Undefined"
+                            },
+                            "subType": {
+                                "id": "KZFzBErXgnZfZ7v7lJ",
+                                "name": "Undefined"
+                            },
+                            "family": false
+                        }
+                    ],
+                    "upcomingEvents": {
+                        "ticketweb": 5,
+                        "_total": 5,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/attractions/K8vZ9171K5V?locale=en-us"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "name": "Weekends with Adele",
+        "type": "event",
+        "id": "G5d0Z9gejyOsn",
+        "test": false,
+        "url": "https://www.ticketmaster.com/weekends-with-adele-las-vegas-nevada-11-16-2024/event/39005F509CE60C6A",
+        "locale": "en-us",
+        "images": [
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                "width": 2426,
+                "height": 1365,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_16_9.jpg",
+                "width": 1024,
+                "height": 576,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_LANDSCAPE_16_9.jpg",
+                "width": 1136,
+                "height": 639,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_3_2.jpg",
+                "width": 1024,
+                "height": 683,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RECOMENDATION_16_9.jpg",
+                "width": 100,
+                "height": 56,
+                "fallback": false
+            },
+            {
+                "ratio": "4_3",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_CUSTOM.jpg",
+                "width": 305,
+                "height": 225,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_ARTIST_PAGE_3_2.jpg",
+                "width": 305,
+                "height": 203,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_16_9.jpg",
+                "width": 640,
+                "height": 360,
+                "fallback": false
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_3_2.jpg",
+                "width": 640,
+                "height": 427,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                "width": 2048,
+                "height": 1152,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_EVENT_DETAIL_PAGE_16_9.jpg",
+                "width": 205,
+                "height": 115,
+                "fallback": false
+            }
+        ],
+        "sales": {
+            "public": {
+                "startTBD": false,
+                "startTBA": false
+            }
+        },
+        "dates": {
+            "start": {
+                "localDate": "2024-11-16",
+                "localTime": "20:00:00",
+                "dateTime": "2024-11-17T04:00:00Z",
+                "dateTBD": false,
+                "dateTBA": false,
+                "timeTBA": false,
+                "noSpecificTime": false
+            },
+            "initialStartDate": {
+                "localDate": "2024-03-23",
+                "localTime": "20:00:00",
+                "dateTime": "2024-03-24T03:00:00Z"
+            },
+            "timezone": "America/Los_Angeles",
+            "status": {
+                "code": "rescheduled"
+            },
+            "spanMultipleDays": false
+        },
+        "classifications": [
+            {
+                "primary": true,
+                "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                },
+                "genre": {
+                    "id": "KnvZfZ7vAeA",
+                    "name": "Rock"
+                },
+                "subGenre": {
+                    "id": "KZazBEonSMnZfZ7v6F1",
+                    "name": "Pop"
+                },
+                "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                },
+                "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                },
+                "family": false
+            }
+        ],
+        "promoter": {
+            "id": "494",
+            "name": "PROMOTED BY VENUE",
+            "description": "PROMOTED BY VENUE / NTL / USA"
+        },
+        "promoters": [
+            {
+                "id": "494",
+                "name": "PROMOTED BY VENUE",
+                "description": "PROMOTED BY VENUE / NTL / USA"
+            }
+        ],
+        "pleaseNote": "Entry requirements and venue protocols are subject to change. Patrons are permitted to stand during performance. Recommended ages 6+. All patrons require a ticket regardless of age. The venue reserves the right to implement security procedures designed to protect the experience for all of our customers.",
+        "priceRanges": [
+            {
+                "type": "standard",
+                "currency": "USD",
+                "min": 90.83,
+                "max": 779.82
+            }
+        ],
+        "seatmap": {
+            "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/39005F509CE60C6A/staticImage?type=png&systemId=HOST",
+            "id": "seatmap"
+        },
+        "accessibility": {
+            "ticketLimit": 4,
+            "id": "accessibility"
+        },
+        "ticketLimit": {
+            "info": "There is an overall 4 ticket limit for this event.",
+            "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+            "legalAgeEnforced": false,
+            "id": "ageRestrictions"
+        },
+        "ticketing": {
+            "safeTix": {
+                "enabled": true,
+                "inAppOnlyEnabled": false
+            },
+            "allInclusivePricing": {
+                "enabled": false
+            },
+            "id": "ticketing"
+        },
+        "_links": {
+            "self": {
+                "href": "/discovery/v2/events/G5d0Z9gejyOsn?locale=en-us"
+            },
+            "attractions": [
+                {
+                    "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                }
+            ],
+            "venues": [
+                {
+                    "href": "/discovery/v2/venues/KovZ917A2m7?locale=en-us"
+                }
+            ]
+        },
+        "_embedded": {
+            "venues": [
+                {
+                    "name": "The Colosseum at Caesars Palace",
+                    "type": "venue",
+                    "id": "KovZ917A2m7",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com/the-colosseum-at-caesars-palace-tickets-las-vegas/venue/467930",
+                    "locale": "en-us",
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dbimages/20364v.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": false
+                        }
+                    ],
+                    "postalCode": "89109",
+                    "timezone": "America/Los_Angeles",
+                    "city": {
+                        "name": "Las Vegas"
+                    },
+                    "state": {
+                        "name": "Nevada",
+                        "stateCode": "NV"
+                    },
+                    "country": {
+                        "name": "United States Of America",
+                        "countryCode": "US"
+                    },
+                    "address": {
+                        "line1": "3570 S Las Vegas Blvd"
+                    },
+                    "location": {
+                        "longitude": "-115.175058",
+                        "latitude": "36.116156"
+                    },
+                    "markets": [
+                        {
+                            "name": "Las Vegas",
+                            "id": "14"
+                        }
+                    ],
+                    "dmas": [
+                        {
+                            "id": 319
+                        }
+                    ],
+                    "boxOfficeInfo": {
+                        "phoneNumberDetail": "1-702-777-2782 or toll free at 1-855-234-7469",
+                        "acceptedPaymentDetail": "Cash and All Major Credit Cards",
+                        "willCallDetail": "MUST HAVE PHOTO I.D. & CREDIT CARD USED TO PURCHASE TICKETS WHEN PICKING UP WILL CALL TICKETS"
+                    },
+                    "parkingDetail": "Valet and Self parking are available; fees may apply.",
+                    "accessibleSeatingDetail": "Elevators are available for access to Rear Orchestra and First and Second Mezzanine sections.",
+                    "generalInfo": {
+                        "generalRule": "This is a Non-Smoking Venue.",
+                        "childRule": "Recommended for ages 6+ (unless otherwise noted), but all patrons require a ticket regardless of age. Children under 18 must be accompanied by an adult."
+                    },
+                    "upcomingEvents": {
+                        "ticketmaster": 62,
+                        "_total": 62,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/venues/KovZ917A2m7?locale=en-us"
+                        }
+                    }
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Adele",
+                    "type": "attraction",
+                    "id": "K8vZ917Gku7",
+                    "test": false,
+                    "url": "https://www.ticketmaster.com.au/adele-tickets/artist/1159272",
+                    "locale": "en-us",
+                    "externalLinks": {
+                        "youtube": [
+                            {
+                                "url": "https://www.youtube.com/user/AdeleVEVO"
+                            },
+                            {
+                                "url": "https://www.youtube.com/user/adelelondon"
+                            }
+                        ],
+                        "twitter": [
+                            {
+                                "url": "https://twitter.com/Adele"
+                            }
+                        ],
+                        "itunes": [
+                            {
+                                "url": "https://itunes.apple.com/artist/id262836961"
+                            }
+                        ],
+                        "lastfm": [
+                            {
+                                "url": "http://www.last.fm/music/Adele"
+                            }
+                        ],
+                        "wiki": [
+                            {
+                                "url": "https://en.wikipedia.org/wiki/Adele"
+                            }
+                        ],
+                        "facebook": [
+                            {
+                                "url": "https://www.facebook.com/adele"
+                            }
+                        ],
+                        "instagram": [
+                            {
+                                "url": "https://www.instagram.com/adele"
+                            }
+                        ],
+                        "musicbrainz": [
+                            {
+                                "id": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493"
+                            }
+                        ],
+                        "homepage": [
+                            {
+                                "url": "http://adele.com/"
+                            }
+                        ]
+                    },
+                    "images": [
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_SOURCE",
+                            "width": 2426,
+                            "height": 1365,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_16_9.jpg",
+                            "width": 1024,
+                            "height": 576,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_LANDSCAPE_16_9.jpg",
+                            "width": 1136,
+                            "height": 639,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_3_2.jpg",
+                            "width": 1024,
+                            "height": 683,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RECOMENDATION_16_9.jpg",
+                            "width": 100,
+                            "height": 56,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "4_3",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_CUSTOM.jpg",
+                            "width": 305,
+                            "height": 225,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_ARTIST_PAGE_3_2.jpg",
+                            "width": 305,
+                            "height": 203,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_16_9.jpg",
+                            "width": 640,
+                            "height": 360,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "3_2",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_RETINA_PORTRAIT_3_2.jpg",
+                            "width": 640,
+                            "height": 427,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                            "width": 2048,
+                            "height": 1152,
+                            "fallback": false
+                        },
+                        {
+                            "ratio": "16_9",
+                            "url": "https://s1.ticketm.net/dam/a/7b0/59dd6cb6-7e74-4832-812e-7dc7a62bb7b0_EVENT_DETAIL_PAGE_16_9.jpg",
+                            "width": 205,
+                            "height": 115,
+                            "fallback": false
+                        }
+                    ],
+                    "classifications": [
+                        {
+                            "primary": true,
+                            "segment": {
+                                "id": "KZFzniwnSyZfZ7v7nJ",
+                                "name": "Music"
+                            },
+                            "genre": {
+                                "id": "KnvZfZ7vAeA",
+                                "name": "Rock"
+                            },
+                            "subGenre": {
+                                "id": "KZazBEonSMnZfZ7v6F1",
+                                "name": "Pop"
+                            },
+                            "type": {
+                                "id": "KZAyXgnZfZ7v7la",
+                                "name": "Individual"
+                            },
+                            "subType": {
+                                "id": "KZFzBErXgnZfZ7vAd7",
+                                "name": "Musician"
+                            },
+                            "family": false
+                        }
+                    ],
+                    "upcomingEvents": {
+                        "ticketmaster": 16,
+                        "mfx-de": 12,
+                        "_total": 28,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/attractions/K8vZ917Gku7?locale=en-us"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "name": "Always, Adele - Adele Tribute",
+        "type": "event",
+        "id": "rZ7HnEZ1AKqVkK",
+        "test": false,
+        "url": "https://www.ticketweb.com/event/always-adele-adele-ivanz-house-at-mozambique-tickets/13774193",
+        "locale": "en-us",
+        "images": [
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_ARTIST_PAGE_3_2.jpg",
+                "width": 305,
+                "height": 203,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_PORTRAIT_16_9.jpg",
+                "width": 640,
+                "height": 360,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RETINA_LANDSCAPE_16_9.jpg",
+                "width": 1136,
+                "height": 639,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                "width": 2048,
+                "height": 1152,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_16_9.jpg",
+                "width": 1024,
+                "height": 576,
+                "fallback": true
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_3_2.jpg",
+                "width": 1024,
+                "height": 683,
+                "fallback": true
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_RECOMENDATION_16_9.jpg",
+                "width": 100,
+                "height": 56,
+                "fallback": true
+            },
+            {
+                "ratio": "4_3",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_CUSTOM.jpg",
+                "width": 305,
+                "height": 225,
+                "fallback": true
+            },
+            {
+                "ratio": "3_2",
+                "url": "https://i.ticketweb.com/i/00/12/48/58/73_Edp.jpg?v=14",
+                "width": 640,
+                "height": 427,
+                "fallback": false
+            },
+            {
+                "ratio": "16_9",
+                "url": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_EVENT_DETAIL_PAGE_16_9.jpg",
+                "width": 205,
+                "height": 115,
+                "fallback": true
+            }
+        ],
+        "sales": {
+            "public": {
+                "startDateTime": "2024-07-15T22:00:00Z",
+                "startTBD": false,
+                "startTBA": false,
+                "endDateTime": "2024-11-17T07:55:00Z"
+            }
+        },
+        "dates": {
+            "access": {
+                "startDateTime": "2024-11-17T01:00:00Z",
+                "startApproximate": false,
+                "endApproximate": false
+            },
+            "start": {
+                "localDate": "2024-11-16",
+                "localTime": "20:00:00",
+                "dateTime": "2024-11-17T04:00:00Z",
+                "dateTBD": false,
+                "dateTBA": false,
+                "timeTBA": false,
+                "noSpecificTime": false
+            },
+            "end": {
+                "approximate": false,
+                "noSpecificTime": false
+            },
+            "timezone": "America/Los_Angeles",
+            "status": {
+                "code": "onsale"
+            },
+            "spanMultipleDays": false
+        },
+        "classifications": [
+            {
+                "primary": true,
+                "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                },
+                "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                },
+                "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vk1t",
+                    "name": "Pop"
+                },
+                "type": {
+                    "id": "KZAyXgnZfZ7v7nI",
+                    "name": "Undefined"
+                },
+                "subType": {
+                    "id": "KZFzBErXgnZfZ7v7lJ",
+                    "name": "Undefined"
+                },
+                "family": false
+            }
+        ],
+        "pleaseNote": "This event is 21 and over. Any ticket holder unable to present valid identification indicating that they are at least 21 years of age will not be admitted to this event, and will not be eligible for a refund.",
+        "priceRanges": [
+            {
+                "type": "standard",
+                "currency": "USD",
+                "min": 20.0,
+                "max": 20.0
+            }
+        ],
+        "_links": {
+            "self": {
+                "href": "/discovery/v2/events/rZ7HnEZ1AKqVkK?locale=en-us"
+            },
+            "venues": [
+                {
+                    "href": "/discovery/v2/venues/rZ7HnEZ17C_r4?locale=en-us"
+                }
+            ]
+        },
+        "_embedded": {
+            "venues": [
+                {
+                    "name": "Ivan'z House at Mozambique",
+                    "type": "venue",
+                    "id": "rZ7HnEZ17C_r4",
+                    "test": false,
+                    "url": "https://www.ticketweb.com/venue/ivanz-house-at-mozambique-laguna-beach-ca/399795",
+                    "locale": "en-us",
+                    "postalCode": "92651",
+                    "timezone": "America/Los_Angeles",
+                    "city": {
+                        "name": "Laguna Beach"
+                    },
+                    "state": {
+                        "name": "California",
+                        "stateCode": "CA"
+                    },
+                    "country": {
+                        "name": "United States Of America",
+                        "countryCode": "US"
+                    },
+                    "address": {
+                        "line1": "1740 S. Coast Highway"
+                    },
+                    "location": {
+                        "longitude": "-117.771375",
+                        "latitude": "33.529436"
+                    },
+                    "upcomingEvents": {
+                        "ticketweb": 43,
+                        "_total": 43,
+                        "_filtered": 0
+                    },
+                    "_links": {
+                        "self": {
+                            "href": "/discovery/v2/venues/rZ7HnEZ17C_r4?locale=en-us"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]
